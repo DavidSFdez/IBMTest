@@ -17,7 +17,7 @@ import java.util.List;
  */
 public class ExportAsFileServiceImpl implements ExporterService {
 
-    private static final String path = "Export\\";
+    private static final String path = "..\\Export\\";
     private static final String fileName = "DATE_proveedores.txt";
 
     @Override
